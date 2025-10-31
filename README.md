@@ -10,6 +10,6 @@
   "LastName": "Blaze",
   "Age": 37,
   "Occupation": Stuntman,
-  "Status": ~~Alive~~,
+  "Status": Alive,
 }
 ```
